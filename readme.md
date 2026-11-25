@@ -11,13 +11,14 @@ Aplicación de consola en C# que implementa manejo de excepciones (`try`, `catch
 ## Capturas de pantalla
 
 ### Validación y excepciones en consola
-FormatException
-![Validación de edad y manejo de excepciones FormatException](capturas/FormatException.png) 
 
-EdadInvalidaException
-![Validación de edad y manejo de excepciones EdadInvalidaException](capturas/EdadInvalidaException.png) 
+#### `FormatException`
+![Validación de edad y manejo de excepciones FormatException](capturas/FormatException.png)
 
+#### `EdadInvalidaException`
+![Validación de edad y manejo de excepciones EdadInvalidaException](capturas/EdadInvalidaException.png)
 
 ### Reproductor con interfaz `IMediaPlayer`
-Resultado en consola
+
+#### Resultado en consola
 ![Ejecución de MusicPlayer en consola](capturas/Interfaces.png)
