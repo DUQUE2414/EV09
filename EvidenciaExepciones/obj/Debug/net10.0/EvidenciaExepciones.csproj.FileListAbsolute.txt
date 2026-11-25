@@ -12,3 +12,4 @@
 /home/duque/Descargas/C#/EV09/EvidenciaExepciones/obj/Debug/net10.0/EvidenciaExepciones.pdb
 /home/duque/Descargas/C#/EV09/EvidenciaExepciones/obj/Debug/net10.0/EvidenciaExepciones.genruntimeconfig.cache
 /home/duque/Descargas/C#/EV09/EvidenciaExepciones/obj/Debug/net10.0/ref/EvidenciaExepciones.dll
+/home/duque/Descargas/C#/EV09/EvidenciaExepciones/obj/Debug/net10.0/EvidenciaExepciones.sourcelink.json
